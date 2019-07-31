@@ -2475,12 +2475,10 @@ MonoBehaviour:
   hazard7: {fileID: 1525444136614912, guid: fe6970b7c0cac2e4a865d43e0b006ac4, type: 2}
   hazard8: {fileID: 1951763860389788, guid: fdb897836864e9846812d6631ee3b4f7, type: 2}
   hazard9: {fileID: 1636149142807610, guid: 95a05c0bc7febfb4c965a9549de038b1, type: 2}
-  wall: {fileID: 1059821659541692, guid: d250c38fa48e61a498b2eb3365973e65, type: 2}
   speedUpCollider: {fileID: 1355342239954182, guid: 51007e03f84c7b54e812e740db17fe03,
     type: 2}
   spawn: {fileID: 625674828}
-  wallSpawn: {fileID: 625674828}
-  hazardCount: 26
+  hazardCount: 20
   spawnWait: 2
   startWait: 0.5
   waveWait: 2
